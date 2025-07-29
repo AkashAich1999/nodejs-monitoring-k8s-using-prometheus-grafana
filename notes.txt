@@ -1,0 +1,9 @@
+# Notes for Myself
+
+# Docker Desktop
+# Minikube - local k8s
+# Helm - Kubernetes Package Manager
+
+My Login Credentials (for Grafana) :
+username: admin
+password: DjX6zR84ZA5UccACanJfUuu0Ucxbn5q9mxUZOD1k
