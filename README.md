@@ -7,6 +7,7 @@
   2. Docker.
   3. Kubernetes. (Minikube)
   4. kubectl.
+  5. Helm. (Kubernetes Package Manager)
 
          
 
@@ -32,3 +33,5 @@
 <img width="1920" height="1080" alt="Screenshot (1112)" src="https://github.com/user-attachments/assets/2906a6d2-55d1-4206-9222-dcf61d7142fd" />
 <br><br>
 <img width="1920" height="1080" alt="Screenshot (1117)" src="https://github.com/user-attachments/assets/2c752e38-0b49-4b7e-9860-79dacb508af4" />
+<br><br>
+<img width="1920" height="1080" alt="Screenshot (1128)" src="https://github.com/user-attachments/assets/4c1c3b91-d525-4931-b040-43795e958aeb" />
